@@ -1,0 +1,3 @@
+[ITEMS]
+ITEM_IDS = ['item_id']
+ITEM_FEATURES = ["content_type", "release_year", "for_kids", "age_rating"]
